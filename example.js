@@ -1,6 +1,6 @@
 var user = prompt("剪刀 石頭 布?");
 var computer = Math.random();
-if (comtuper<=0.33){
+if (computer<=0.33){
     computer="剪刀";
 }
 else if(computer<=0.66){
